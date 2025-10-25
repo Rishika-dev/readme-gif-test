@@ -1,1 +1,1 @@
-![Dynamic Bio Card](Aco.gif)
+![Dynamic Bio Card](Aco.png)
