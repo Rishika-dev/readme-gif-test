@@ -1,1 +1,1 @@
-![Dynamic Bio Card](bio_card_multi_section_custom_mode.gif)
+![Dynamic Bio Card](Aco.gif)
